@@ -10,6 +10,13 @@ header {
   border-bottom: 2px solid rgb(49, 110, 242);
 }
 
+.intro {
+  display: flex;
+  flex-direction: column;
+  /* display: block; */
+  align-items: center;
+}
+
 header h1 {
   font-size: 2rem;
   font-weight: bold;
